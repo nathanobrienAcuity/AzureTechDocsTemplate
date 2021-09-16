@@ -27,7 +27,7 @@ spec:
       name: Fetch Skeleton + Template
       action: fetch:template
       input:
-        url: https://ablcode.visualstudio.com/Architecture/_git/acuitytech-product-documentation
+        url: https://ablcode.visualstudio.com/Architecture/_git/acuitytech-product-documentation?path=/product-documentation
         copyWithoutRender:
           - .azure/workflows/*
         values:
