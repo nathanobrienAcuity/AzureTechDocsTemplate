@@ -5,7 +5,7 @@ metadata:
   title: Create The Needed Tech Doc File Repo
   description: Create a repo with Tech Decs
   tags:
-    - Tech-Docs
+    - techdocs
     - azure
 spec:
   owner: web@example.com
