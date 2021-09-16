@@ -1,12 +1,11 @@
 apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
-  name: create-doc-template-azure
-  title: Create Doc Template Azure
-  description: Create a new Doc in Azure
+  name: create-Tech-Docs-Azure
+  title: Create The Needed Tech Doc File Repo
+  description: Create a repo with Tech Decs
   tags:
-    - documentation
-    - cra
+    - Tech Docs
     - azure
 spec:
   owner: web@example.com
